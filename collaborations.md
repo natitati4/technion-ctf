@@ -39,23 +39,23 @@ order: -9999
 </style>
 
 :::sponsor-1
-![]("\files\Imperva.jpg")
+![]("\technion-ctf\files\Imperva.jpg")
 :::
 :::sponsor-1
-![]("\files\intel.png")
+![]("\technion-ctf\files\intel.png")
 :::
 
 :::sponsor-2
-![]("\files\IEEE-logo_2.png")
+![]("\technion-ctf\files\IEEE-logo_2.png")
 :::
 :::sponsor-2
-![]("\files\Hiroshi_Fujiwara_Cyber_Security-LOGO.png")
+![]("\technion-ctf\files\Hiroshi_Fujiwara_Cyber_Security-LOGO.png")
 :::
 :::sponsor-2
-![]("\files\ieee.jpg")
+![]("\technion-ctf\files\ieee.jpg")
 :::
 :::sponsor-2
-![]("\files\cyber-lab-logo.jpg")
+![]("\technion-ctf\files\cyber-lab-logo.jpg")
 :::
 
 ---
