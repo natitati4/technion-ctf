@@ -12,6 +12,8 @@ order: -50
 [!button icon="download" text="FSB practice challenges"](/files/fmtstr_challenges.zip)
 
 === Additional Resources
-[LiveOverflow's Binary Exploitation series](https://minesweepergame.com/download/windows-xp-minesweeper.php)
+[LiveOverflow's Binary Exploitation series](https://www.youtube.com/playlist?list=PLhixgUqwRTjxglIswKp9mpkfPNfHkzyeN)
 
 [ir0nstone's notes](https://ir0nstone.gitbook.io/notes/binexp)
+
+===

@@ -10,3 +10,5 @@ Challenge! Patch [WINMINE](https://minesweepergame.com/download/windows-xp-mines
 ![](/files/solved_WINMINE.png)
 
 [!button icon="external-link" text="Relevant Workshop"](https://ibrice101.github.io/Talks/MinesweeperHackingWorkshop/)
+
+===
