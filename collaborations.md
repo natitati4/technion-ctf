@@ -42,20 +42,20 @@ order: -9999
 ![](/files/Imperva.jpg)
 :::
 :::sponsor-1
-![]("/files/intel.png")
+![](/files/intel.png)
 :::
 
 :::sponsor-2
-![]("/files/IEEE-logo_2.png")
+![](/files/IEEE-logo_2.png)
 :::
 :::sponsor-2
-![]("/files/Hiroshi_Fujiwara_Cyber_Security-LOGO.png")
+![](/files/Hiroshi_Fujiwara_Cyber_Security-LOGO.png)
 :::
 :::sponsor-2
-![]("/files/ieee.jpg")
+![](/files/ieee.jpg)
 :::
 :::sponsor-2
-![]("/files/cyber-lab-logo.jpg")
+![](/files/cyber-lab-logo.jpg)
 :::
 
 ---
