@@ -1,0 +1,213 @@
+{
+  "version": "3.7.0",
+  "created": "2025-05-02T20:40:06Z",
+  "files": [
+    {
+      "path": ".nojekyll"
+    },
+    {
+      "path": "404.html"
+    },
+    {
+      "path": "advanced-workshops/forensics/index.html"
+    },
+    {
+      "path": "advanced-workshops/pwn/index.html"
+    },
+    {
+      "path": "advanced-workshops/reverse/index.html"
+    },
+    {
+      "path": "advanced-workshops/web/index.html"
+    },
+    {
+      "path": "beginner-workshops/binary/index.html"
+    },
+    {
+      "path": "beginner-workshops/crypto/index.html"
+    },
+    {
+      "path": "beginner-workshops/forensics/index.html"
+    },
+    {
+      "path": "beginner-workshops/intro/index.html"
+    },
+    {
+      "path": "beginner-workshops/llm/index.html"
+    },
+    {
+      "path": "beginner-workshops/reverse/index.html"
+    },
+    {
+      "path": "beginner-workshops/web/index.html"
+    },
+    {
+      "path": "beginner-workshops/xss/index.html"
+    },
+    {
+      "path": "CNAME"
+    },
+    {
+      "path": "collaborations/index.html"
+    },
+    {
+      "path": "faq/index.html"
+    },
+    {
+      "path": "favicon.ico"
+    },
+    {
+      "path": "files/advancedreverse.pptx"
+    },
+    {
+      "path": "files/binary_exploitation.pptx"
+    },
+    {
+      "path": "files/challenges.txt"
+    },
+    {
+      "path": "files/client_side.pptx"
+    },
+    {
+      "path": "files/crypto.pptx"
+    },
+    {
+      "path": "files/ctf-basics.pptx"
+    },
+    {
+      "path": "files/cyber-lab-logo.jpg"
+    },
+    {
+      "path": "files/fmtstr_challenges.zip"
+    },
+    {
+      "path": "files/fmtstr.pptx"
+    },
+    {
+      "path": "files/forensics_w25.pptx"
+    },
+    {
+      "path": "files/forensics.pptx"
+    },
+    {
+      "path": "files/hiroshi_fujiwara_cyber_security-logo.png"
+    },
+    {
+      "path": "files/ieee-logo_2.png"
+    },
+    {
+      "path": "files/ieee.jpg"
+    },
+    {
+      "path": "files/imperva.jpg"
+    },
+    {
+      "path": "files/intel.png"
+    },
+    {
+      "path": "files/introduction.pptx"
+    },
+    {
+      "path": "files/llm_jailbreak_attacks.pdf"
+    },
+    {
+      "path": "files/logo-dark.png"
+    },
+    {
+      "path": "files/logo.png"
+    },
+    {
+      "path": "files/past-events/defcon-group.jpg"
+    },
+    {
+      "path": "files/past-events/defcon-htb.jpg"
+    },
+    {
+      "path": "files/past-events/defcon-old-comps.jpg"
+    },
+    {
+      "path": "files/past-events/defcon-solving.jpg"
+    },
+    {
+      "path": "files/past-events/imperva-lecture-1.jpg"
+    },
+    {
+      "path": "files/past-events/imperva-lecture-2.jpg"
+    },
+    {
+      "path": "files/past-events/intel-audiance.jpg"
+    },
+    {
+      "path": "files/past-events/intel-lecture.jpg"
+    },
+    {
+      "path": "files/pwn.pptx"
+    },
+    {
+      "path": "files/rev25.pptx"
+    },
+    {
+      "path": "files/server_side.pptx"
+    },
+    {
+      "path": "files/technion_taubcs_logo_neg.png"
+    },
+    {
+      "path": "files/web.pptx"
+    },
+    {
+      "path": "files/xss.pptx"
+    },
+    {
+      "path": "index.html"
+    },
+    {
+      "path": "kali-installation/index.html"
+    },
+    {
+      "path": "past-events/index.html"
+    },
+    {
+      "path": "resources/css/retype.css"
+    },
+    {
+      "path": "resources/fonts/Inter-italic-latin-var.woff2"
+    },
+    {
+      "path": "resources/fonts/Inter-roman-latin-var.woff2"
+    },
+    {
+      "path": "resources/js/config.js"
+    },
+    {
+      "path": "resources/js/lunr.js"
+    },
+    {
+      "path": "resources/js/retype.js"
+    },
+    {
+      "path": "resources/js/search.json"
+    },
+    {
+      "path": "resources/lunr.js.LICENSE.txt"
+    },
+    {
+      "path": "resources/mermaid.js.LICENSE.txt"
+    },
+    {
+      "path": "resources/prism.js.LICENSE.txt"
+    },
+    {
+      "path": "resources/retype.js.LICENSE.txt"
+    },
+    {
+      "path": "resources/retype.LICENSE.txt"
+    },
+    {
+      "path": "robots.txt"
+    },
+    {
+      "path": "sitemap.xml.gz"
+    }
+  ]
+}
