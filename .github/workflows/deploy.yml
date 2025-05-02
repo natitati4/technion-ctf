@@ -1,0 +1,33 @@
+name: Build and Deploy Retype Site
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  build-and-deploy:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout source
+        uses: actions/checkout@v3
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: 20
+
+      - name: Install Retype
+        run: npm install -g retypeapp
+
+      - name: Build the site
+        run: retype build --output .retype
+
+      - name: Deploy to `site` branch
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: .retype
+          publish_branch: site
+          force_orphan: true
