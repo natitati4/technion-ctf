@@ -12,4 +12,4 @@ order: -10
 
 ---
 
-![]("\files\Technion_TaubCS_Logo_Neg.png")
+![]("/files/Technion_TaubCS_Logo_Neg.png")

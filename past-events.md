@@ -43,16 +43,16 @@ order: -20
 We've represented the Technion at DEF CON 32, and got 5th place in Hack The Box's Data Dystopia!
 
 :::image-container
-![]("\files\past-events\defcon-group.jpg")
+![]("/files/past-events/defcon-group.jpg")
 :::
 :::image-container
-![]("\files\past-events\defcon-htb.jpg")
+![]("/files/past-events/defcon-htb.jpg")
 :::
 :::image-container
-![]("\files\past-events\defcon-old-comps.jpg")
+![]("/files/past-events/defcon-old-comps.jpg")
 :::
 :::image-container
-![]("\files\past-events\defcon-solving.jpg")
+![]("/files/past-events/defcon-solving.jpg")
 :::
 
 ---
@@ -60,16 +60,16 @@ We've represented the Technion at DEF CON 32, and got 5th place in Hack The Box'
 ---
 Fascinating talks by security experts from Intel and Imperva
 :::image-container
-![]("\files\past-events\imperva-lecture-1.jpg")
+![]("/files/past-events/imperva-lecture-1.jpg")
 :::
 :::image-container
-![]("\files\past-events\imperva-lecture-2.jpg")
+![]("/files/past-events/imperva-lecture-2.jpg")
 :::
 :::image-container
-![]("\files\past-events\intel-audiance.jpg")
+![]("/files/past-events/intel-audiance.jpg")
 :::
 :::image-container
-![]("\files\past-events\intel-lecture.jpg")
+![]("/files/past-events/intel-lecture.jpg")
 :::
 
 ---

@@ -1,6 +1,6 @@
 {
   "version": "3.7.0",
-  "created": "2025-05-02T20:49:59Z",
+  "created": "2025-05-02T21:13:23Z",
   "files": [
     {
       "path": ".nojekyll"
@@ -9,64 +9,84 @@
       "path": "404.html"
     },
     {
-      "path": "advanced-workshops/docs/404.html"
+      "path": "advanced-workshops/docs/404.html",
+      "old": true
     },
     {
-      "path": "advanced-workshops/docs/forensics/index.html"
+      "path": "advanced-workshops/docs/forensics/index.html",
+      "old": true
     },
     {
-      "path": "advanced-workshops/docs/index.html"
+      "path": "advanced-workshops/docs/index.html",
+      "old": true
     },
     {
-      "path": "advanced-workshops/docs/pwn/index.html"
+      "path": "advanced-workshops/docs/pwn/index.html",
+      "old": true
     },
     {
-      "path": "advanced-workshops/docs/resources/css/retype.css"
+      "path": "advanced-workshops/docs/resources/css/retype.css",
+      "old": true
     },
     {
-      "path": "advanced-workshops/docs/resources/fonts/inter-italic-latin-var.woff2"
+      "path": "advanced-workshops/docs/resources/fonts/inter-italic-latin-var.woff2",
+      "old": true
     },
     {
-      "path": "advanced-workshops/docs/resources/fonts/inter-roman-latin-var.woff2"
+      "path": "advanced-workshops/docs/resources/fonts/inter-roman-latin-var.woff2",
+      "old": true
     },
     {
-      "path": "advanced-workshops/docs/resources/js/config.js"
+      "path": "advanced-workshops/docs/resources/js/config.js",
+      "old": true
     },
     {
-      "path": "advanced-workshops/docs/resources/js/lunr.js"
+      "path": "advanced-workshops/docs/resources/js/lunr.js",
+      "old": true
     },
     {
-      "path": "advanced-workshops/docs/resources/js/prism.js"
+      "path": "advanced-workshops/docs/resources/js/prism.js",
+      "old": true
     },
     {
-      "path": "advanced-workshops/docs/resources/js/retype.js"
+      "path": "advanced-workshops/docs/resources/js/retype.js",
+      "old": true
     },
     {
-      "path": "advanced-workshops/docs/resources/js/search.json"
+      "path": "advanced-workshops/docs/resources/js/search.json",
+      "old": true
     },
     {
-      "path": "advanced-workshops/docs/resources/lunr.js.license.txt"
+      "path": "advanced-workshops/docs/resources/lunr.js.license.txt",
+      "old": true
     },
     {
-      "path": "advanced-workshops/docs/resources/mermaid.js.license.txt"
+      "path": "advanced-workshops/docs/resources/mermaid.js.license.txt",
+      "old": true
     },
     {
-      "path": "advanced-workshops/docs/resources/prism.js.license.txt"
+      "path": "advanced-workshops/docs/resources/prism.js.license.txt",
+      "old": true
     },
     {
-      "path": "advanced-workshops/docs/resources/retype.js.license.txt"
+      "path": "advanced-workshops/docs/resources/retype.js.license.txt",
+      "old": true
     },
     {
-      "path": "advanced-workshops/docs/resources/retype.license.txt"
+      "path": "advanced-workshops/docs/resources/retype.license.txt",
+      "old": true
     },
     {
-      "path": "advanced-workshops/docs/reverse/index.html"
+      "path": "advanced-workshops/docs/reverse/index.html",
+      "old": true
     },
     {
-      "path": "advanced-workshops/docs/robots.txt"
+      "path": "advanced-workshops/docs/robots.txt",
+      "old": true
     },
     {
-      "path": "advanced-workshops/docs/web/index.html"
+      "path": "advanced-workshops/docs/web/index.html",
+      "old": true
     },
     {
       "path": "advanced-workshops/forensics/index.html"
@@ -268,6 +288,150 @@
     },
     {
       "path": "sitemap.xml.gz"
+    },
+    {
+      "path": "static/files/advancedreverse.pptx",
+      "old": true
+    },
+    {
+      "path": "static/files/binary_exploitation.pptx",
+      "old": true
+    },
+    {
+      "path": "static/files/challenges.txt",
+      "old": true
+    },
+    {
+      "path": "static/files/client_side.pptx",
+      "old": true
+    },
+    {
+      "path": "static/files/crypto.pptx",
+      "old": true
+    },
+    {
+      "path": "static/files/ctf-basics.pptx",
+      "old": true
+    },
+    {
+      "path": "static/files/cyber-lab-logo.jpg",
+      "old": true
+    },
+    {
+      "path": "static/files/fmtstr_challenges.zip",
+      "old": true
+    },
+    {
+      "path": "static/files/fmtstr.pptx",
+      "old": true
+    },
+    {
+      "path": "static/files/forensics_w25.pptx",
+      "old": true
+    },
+    {
+      "path": "static/files/forensics.pptx",
+      "old": true
+    },
+    {
+      "path": "static/files/hiroshi_fujiwara_cyber_security-logo.png",
+      "old": true
+    },
+    {
+      "path": "static/files/ieee-logo_2.png",
+      "old": true
+    },
+    {
+      "path": "static/files/ieee.jpg",
+      "old": true
+    },
+    {
+      "path": "static/files/imperva.jpg",
+      "old": true
+    },
+    {
+      "path": "static/files/intel.png",
+      "old": true
+    },
+    {
+      "path": "static/files/introduction.pptx",
+      "old": true
+    },
+    {
+      "path": "static/files/llm_jailbreak_attacks.pdf",
+      "old": true
+    },
+    {
+      "path": "static/files/logo-dark.png",
+      "old": true
+    },
+    {
+      "path": "static/files/logo.png",
+      "old": true
+    },
+    {
+      "path": "static/files/past-events/defcon-group.jpg",
+      "old": true
+    },
+    {
+      "path": "static/files/past-events/defcon-htb.jpg",
+      "old": true
+    },
+    {
+      "path": "static/files/past-events/defcon-old-comps.jpg",
+      "old": true
+    },
+    {
+      "path": "static/files/past-events/defcon-solving.jpg",
+      "old": true
+    },
+    {
+      "path": "static/files/past-events/imperva-lecture-1.jpg",
+      "old": true
+    },
+    {
+      "path": "static/files/past-events/imperva-lecture-2.jpg",
+      "old": true
+    },
+    {
+      "path": "static/files/past-events/intel-audiance.jpg",
+      "old": true
+    },
+    {
+      "path": "static/files/past-events/intel-lecture.jpg",
+      "old": true
+    },
+    {
+      "path": "static/files/pwn.pptx",
+      "old": true
+    },
+    {
+      "path": "static/files/rev.pptx",
+      "old": true
+    },
+    {
+      "path": "static/files/rev25.pptx",
+      "old": true
+    },
+    {
+      "path": "static/files/server_side.pptx",
+      "old": true
+    },
+    {
+      "path": "static/files/technion_taubcs_logo_neg.png",
+      "old": true
+    },
+    {
+      "path": "static/files/web.pptx",
+      "old": true
+    },
+    {
+      "path": "static/files/xor_example.py",
+      "old": true
+    },
+    {
+      "path": "static/files/xss.pptx",
+      "old": true
     }
   ]
 }

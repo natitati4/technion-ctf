@@ -1,6 +1,8 @@
 input: .
 output: .retype
 url: https://technionctf.com
+assets:
+  - files
 branding:
   logo: files/logo-dark.png
 meta:
