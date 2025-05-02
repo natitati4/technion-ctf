@@ -1,12 +1,72 @@
 {
   "version": "3.7.0",
-  "created": "2025-05-02T20:40:06Z",
+  "created": "2025-05-02T20:49:59Z",
   "files": [
     {
       "path": ".nojekyll"
     },
     {
       "path": "404.html"
+    },
+    {
+      "path": "advanced-workshops/docs/404.html"
+    },
+    {
+      "path": "advanced-workshops/docs/forensics/index.html"
+    },
+    {
+      "path": "advanced-workshops/docs/index.html"
+    },
+    {
+      "path": "advanced-workshops/docs/pwn/index.html"
+    },
+    {
+      "path": "advanced-workshops/docs/resources/css/retype.css"
+    },
+    {
+      "path": "advanced-workshops/docs/resources/fonts/inter-italic-latin-var.woff2"
+    },
+    {
+      "path": "advanced-workshops/docs/resources/fonts/inter-roman-latin-var.woff2"
+    },
+    {
+      "path": "advanced-workshops/docs/resources/js/config.js"
+    },
+    {
+      "path": "advanced-workshops/docs/resources/js/lunr.js"
+    },
+    {
+      "path": "advanced-workshops/docs/resources/js/prism.js"
+    },
+    {
+      "path": "advanced-workshops/docs/resources/js/retype.js"
+    },
+    {
+      "path": "advanced-workshops/docs/resources/js/search.json"
+    },
+    {
+      "path": "advanced-workshops/docs/resources/lunr.js.license.txt"
+    },
+    {
+      "path": "advanced-workshops/docs/resources/mermaid.js.license.txt"
+    },
+    {
+      "path": "advanced-workshops/docs/resources/prism.js.license.txt"
+    },
+    {
+      "path": "advanced-workshops/docs/resources/retype.js.license.txt"
+    },
+    {
+      "path": "advanced-workshops/docs/resources/retype.license.txt"
+    },
+    {
+      "path": "advanced-workshops/docs/reverse/index.html"
+    },
+    {
+      "path": "advanced-workshops/docs/robots.txt"
+    },
+    {
+      "path": "advanced-workshops/docs/web/index.html"
     },
     {
       "path": "advanced-workshops/forensics/index.html"
