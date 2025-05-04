@@ -11,7 +11,8 @@ order: -50
 [!button icon="download" text="Spring 25 Pwn Presentation"](/files/spring25pwn1.pptx)
 
 #### Class practice
-[!button icon="download" text="Spring 25 Challenges (.zip)"](/files/spring25pwn1.zip)
+[!button icon="download" text="Spring 25 Challenge Pack (.zip)"](https://github.com/natitati4/technion-ctf/raw/refs/heads/main/files/spring25pwn1.zip)
+
 
 </details>
 
