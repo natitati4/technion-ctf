@@ -7,9 +7,11 @@ order: -50
 <details>
 <summary>Spring 25</summary>
 
-<!-- Add Spring 25 content here -->
+#### Presentations  
+[!button icon="download" text="Spring 25 Pwn Presentation"](/files/spring25pwn1.pptx)
 
-</details>
+#### Class practice
+[!button icon="download" text="Spring 25 Challenges (.zip)"](/files/spring25pwn1.zip)
 
 </details>
 
@@ -25,7 +27,7 @@ order: -50
 <details>
 <summary>Winter 25</summary>
 
-#### Presentations
+#### Presentations  
 [!button icon="download" text="Pwn Presentation"](/files/Pwn.pptx)  
 [!button icon="download" text="Pwn Presentation 2 - FSB"](/files/FmtStr.pptx)
 
