@@ -11,7 +11,7 @@ order: -50
 [!button icon="download" text="Spring 25 Pwn Presentation"](/files/spring25pwn1.pptx)
 
 #### Class practice
-[Challenges (.zip)](https://cybersharing.net/s/756d7238059966fe)
+[!button icon="download" text="Challenges"](/files/spring25pwn1.zip)
 
 
 </details>
