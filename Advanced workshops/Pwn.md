@@ -7,11 +7,12 @@ order: -50
 <details>
 <summary>Spring 25</summary>
 
-#### Presentations  
+#### Material
 [!button icon="download" text="Spring 25 Pwn Presentation"](/files/spring25pwn1.pptx)
 
-#### Class practice
-[!button icon="download" text="Challenges"](/files/spring25pwn1.zip)
+[!button icon="download" text="Class examples"](/files/class_examples.zip)
+
+[!button icon="download" text="Practice challenges"](/files/spring25pwn1.zip)
 
 
 </details>
